@@ -1,4 +1,4 @@
-OpninionMining
+OpinionMining
 ==============
 
 NLP Course Project
